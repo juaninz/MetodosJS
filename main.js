@@ -7,7 +7,7 @@ const Pizzas = [
     { id: 6, nombre: "Rucula", ingredientes: ['queso','jamon','rucula'], precio:700},
 ]
 
-//a) pizzas con id par
+//a) pizzas con id impar
 
 function clasificarId(impar){
     let impares = [];
